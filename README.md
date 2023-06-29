@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @YepizTech-Jonathan
 - 👀 I’m interested in Learning everything I Can
-- 🌱 I’m currently learning Android Development in java
-- 💞️ I’m looking to collaborate on anything i have knowledge on
-- 📫 How to reach me My Wesite
+- 🌱 I’m currently learning DevNet
+- 💞️ I’m looking to collaborate on anything I have knowledge on
+- 📫 How to reach me My website
 
 <!---
 YepizTech-Jonathan/YepizTech-Jonathan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
